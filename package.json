@@ -27,7 +27,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@powersync/common": "^1.51.0",
+    "@powersync/common": "^2.0.0",
     "@powersync/react": "^1.10.0",
     "@powersync/tauri-plugin": "^0.0.4",
     "@radix-ui/react-slot": "^1.2.4",
