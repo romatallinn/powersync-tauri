@@ -4955,9 +4955,9 @@ dependencies = [
 
 [[package]]
 name = "tauri-plugin-powersync"
-version = "0.0.4"
+version = "0.0.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c85b4506a931593b8a75d96c8d3bf8f55737b7c1a7370bc2d64018a36685e8fd"
+checksum = "d555a36c4edb827b9dd0419e421fd52bf3b7d110c1f963d662b29e26ca08c548"
 dependencies = [
  "http-client",
  "powersync",
